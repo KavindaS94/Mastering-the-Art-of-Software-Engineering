@@ -96,4 +96,6 @@ A Comprehensive Guide to Key Areas and Resources
        - [Azure Functions Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/)
        - [Google Cloud Functions Documentation](https://cloud.google.com/functions/docs)
 
-This comprehensive guide covers key areas of software engineering, including frontend and backend development, database management, web services, version control, algorithms, security, DevOps, testing, Agile methodologies, cloud services,
+This comprehensive guide covers key areas of software engineering, including frontend and backend development, database management, web services, version control, algorithms, security, DevOps, testing, Agile methodologies, cloud services etc. 
+
+Certifications : 
