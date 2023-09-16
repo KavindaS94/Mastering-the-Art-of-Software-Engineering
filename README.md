@@ -96,4 +96,4 @@ A Comprehensive Guide to Key Areas and Resources
 
 This comprehensive guide covers key areas of software engineering, including frontend and backend development, database management, web services, version control, algorithms, security, DevOps, testing, Agile methodologies, cloud services etc. 
 
-Certifications : 
+Recommended cerifications can be find [here](./Certification.md)
