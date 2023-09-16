@@ -1,4 +1,4 @@
-# Mastering-the-Art-of-Software-Engineering
+# Mastering the Art of Software Engineering
 A Comprehensive Guide to Key Areas and Resources
 
 1. **Frontend Development:**
